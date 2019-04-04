@@ -1,2 +1,2 @@
-# PTT-Multivocal-Literature-Review
-Performance Testing Tools: a Multivocal Literature Review
+# PTT-Systematic-Mapping-Review
+Performance Testing Tools: a Systematic Mapping Review
